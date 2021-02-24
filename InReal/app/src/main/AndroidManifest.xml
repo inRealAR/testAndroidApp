@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.inreal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity
+            android:name="com.example.inreal.FoodActivity"
+            android:label="@string/food_activity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.inreal.FoodCategoryActivity" />
+        </activity>
+
+        <activity
+            android:name="com.example.inreal.FoodCategoryActivity"
+            android:label="@string/food_category_activity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.inreal.MainActivity" />
+        </activity>
+
+        <activity
+            android:name="com.example.inreal.DrinkActivity"
+            android:label="@string/drink_activity"
+            android:parentActivityName="com.example.inreal.DrinkCategoryActivity">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.inreal.DrinkCategoryActivity" />
+        </activity>
+
+        <activity
+            android:name="com.example.inreal.DrinkCategoryActivity"
+            android:label="@string/drink_category_activity"
+            android:parentActivityName="com.example.inreal.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.inreal.MainActivity" />
+        </activity>
+
+
+        <activity
+            android:name="com.example.inreal.OrderActivity"
+            android:label="@string/create_order"
+            android:parentActivityName="com.example.inreal.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.inreal.MainActivity" />
+        </activity>
+        <activity android:name="com.example.inreal.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
