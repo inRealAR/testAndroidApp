@@ -1,11 +1,5 @@
 package com.example.inreal;
 
-import androidx.appcompat.app.ActionBar;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.ShareActionProvider;
-import androidx.appcompat.widget.Toolbar;
-import androidx.core.view.MenuItemCompat;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -15,7 +9,11 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.example.inreal.R;
+import androidx.appcompat.app.ActionBar;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.ShareActionProvider;
+import androidx.appcompat.widget.Toolbar;
+import androidx.core.view.MenuItemCompat;
 
 public class FoodCategoryActivity extends AppCompatActivity {
 
@@ -78,5 +76,10 @@ public class FoodCategoryActivity extends AppCompatActivity {
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+
+    public void onClick(View view) {
+        Intent intent = new Intent(FoodCategoryActivity.this, ARfoundtaion.class);
+        startActivity(intent);
     }
 }

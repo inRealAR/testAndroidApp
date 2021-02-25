@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_main.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\raw_pizza.sfb.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\raw\\pizza.sfb"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_filter.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tom_yam.jpg.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\tom_yam.jpg"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_category.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_food_category.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drink_and_food.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_drink_and_food.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drink.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_drink.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cappuccino.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\cappuccino.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-mdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sushi_set_filava.jpg.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\sushi_set_filava.jpg"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_in_real.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\in_real.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_done_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\raw_cheeseburger.sfb.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\raw\\cheeseburger.sfb"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_done_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-hdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_done_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-mdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_done_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xxhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\raw_coffee.sfb.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\raw\\coffee.sfb"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cheeseburger.jpg.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\cheeseburger.jpg"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_latte.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\latte.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza.jpg.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\pizza.jpg"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lasagna.jpg.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable\\lasagna.jpg"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_a_rfoundtaion.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_a_rfoundtaion.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\raw_tom_yam.sfb.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\raw\\tom_yam.sfb"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_done_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drink_category.xml.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\layout\\activity_drink_category.xml"
+    },
+    {
+        "merged": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\HeadFirst\\testAndroidApp\\InReal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

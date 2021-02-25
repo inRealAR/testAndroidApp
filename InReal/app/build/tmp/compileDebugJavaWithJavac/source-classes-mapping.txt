@@ -1,0 +1,24 @@
+com/example/inreal/Drink.java
+ com.example.inreal.Drink
+com/example/inreal/OrderActivity.java
+ com.example.inreal.OrderActivity
+com/example/inreal/Food.java
+ com.example.inreal.Food
+com/example/inreal/MainActivity.java
+ com.example.inreal.MainActivity
+com/example/inreal/CategoriesDrinksAndFoods.java
+ com.example.inreal.CategoriesDrinksAndFoods
+com/example/inreal/BuildConfig.java
+ com.example.inreal.BuildConfig
+com/example/inreal/DrinkCategoryActivity.java
+ com.example.inreal.DrinkCategoryActivity
+ com.example.inreal.DrinkCategoryActivity$1
+com/example/inreal/FoodCategoryActivity.java
+ com.example.inreal.FoodCategoryActivity
+ com.example.inreal.FoodCategoryActivity$1
+com/example/inreal/FoodActivity.java
+ com.example.inreal.FoodActivity
+com/example/inreal/DrinkActivity.java
+ com.example.inreal.DrinkActivity
+com/example/inreal/ARfoundtaion.java
+ com.example.inreal.ARfoundtaion

@@ -1,17 +1,15 @@
 package com.example.inreal;
 
-import com.example.inreal.R;
-
 public class Food extends CategoriesDrinksAndFoods{
 
 
     public static final Food[] foods = {
+            new Food("Cheeseburger", "Classic American humburger with 3 types of cheese",
+                    R.drawable.cheeseburger),
+            new Food("Tom Yam", "Thai soup with meet, shrimps, eggs and spicy water",
+                    R.drawable.tom_yam),
             new Food("Pizza Pepperoni", "American Pizza with hot chorizzo",
                     R.drawable.pizza),
-            new Food("Lasagna", "Italian paste based on couple of meet sauce and milk sauce",
-                    R.drawable.lasagna),
-            new Food("Roll Set FilaVo", "Fresh fish with rice and cheese Filadelphia and also another roll with flying fish roe",
-                    R.drawable.sushi_set_filava),
     };
 
     public Food(String name, String description, int imageId) {

@@ -1,30 +1,29 @@
 package com.example.inreal;
 
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
+
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.ShareActionProvider;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.MenuItemCompat;
 
-import android.content.Intent;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.widget.ImageView;
-import android.widget.TextView;
-
-import com.example.inreal.R;
-
 public class FoodActivity extends AppCompatActivity {
 
     public static final String EXTRA_FOODID = "drink_id";
-
+    private int id = 0;
     private ShareActionProvider shareActionProvider;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_drink);
+        setContentView(R.layout.activity_drink_and_food);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -33,7 +32,7 @@ public class FoodActivity extends AppCompatActivity {
         actionBar.setDisplayHomeAsUpEnabled(true);
 
         Intent intent = getIntent();
-        int id = intent.getIntExtra(EXTRA_FOODID, 0);
+        id = intent.getIntExtra(EXTRA_FOODID, 0);
 
         Food food = Food.foods[id];
 
@@ -46,6 +45,14 @@ public class FoodActivity extends AppCompatActivity {
         ImageView photo = (ImageView)findViewById(R.id.photo);
         photo.setImageResource(food.getImageId());
         photo.setContentDescription(food.getName());
+    }
+
+    public void onClick(View view) {
+        Intent intent = new Intent(FoodActivity.this, ARfoundtaion.class);
+        String category = "Food";
+        intent.putExtra(ARfoundtaion.EXTRA_ID, (int) id);
+        intent.putExtra(ARfoundtaion.EXTRA_CATEGORY, (String) category);
+        startActivity(intent);
     }
 
     @Override
@@ -75,5 +82,6 @@ public class FoodActivity extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
+
 
 }
