@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.inreal.MainActivity">
+    tools:context="com.example.inreal.TopLevelActitivy">
 
     <include
         layout="@layout/toolbar_main"

@@ -7,8 +7,8 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.bitsandpizza"
-        minSdkVersion 19
+        applicationId "com.example.artry"
+        minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -32,9 +32,40 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.3.0'
+    // Provides ARCore Session and related resources.
+    implementation 'com.google.ar:core:1.15.0'
+
+    // Provides ArFragment, and other UX resources.
+    implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.15.0'
+
+    // Alternatively, use ArSceneView without the UX dependency.
+    implementation 'com.google.ar.sceneform:core:1.15.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation 'com.android.support:appcompat-v7:28.0.0'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
+
+apply plugin: 'com.google.ar.sceneform.plugin'
+
+sceneform.asset('sampledata/tom_yam/tom_yam.obj', // 'Source Asset Path' specified during import.
+        'default',                    // 'Material Path' specified during import.
+        'sampledata/models/tom_yam.sfa', // '.sfa Output Path' specified during import.
+        'src/main/res/raw/tom_yam')
+
+
+sceneform.asset('sampledata/cheeseburger/cheeseburger.obj', // 'Source Asset Path' specified during import.
+        'default',// 'Material Path' specified during import.
+        'sampledata/models/cheeseburger.sfa', // '.sfa Output Path' specified during import.
+        'src/main/res/raw/cheeseburger')
+
+
+sceneform.asset('sampledata/pepperoni/pizza.obj', // 'Source Asset Path' specified during import.
+        'default',// 'Material Path' specified during import.
+        'sampledata/models/pizza.sfa', // '.sfa Output Path' specified during import.
+        'src/main/res/raw/pizza')
+
+sceneform.asset('sampledata/coffee.obj', // 'Source Asset Path' specified during import.
+        'default',// 'Material Path' specified during import.
+        'sampledata/models/coffee.sfa', // '.sfa Output Path' specified during import.
+        'src/main/res/raw/coffee')

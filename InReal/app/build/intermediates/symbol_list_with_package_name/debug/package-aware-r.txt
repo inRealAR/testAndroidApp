@@ -1693,6 +1693,7 @@ drawable notify_panel_notification_icon_bg
 drawable pizza
 drawable sceneform_hand_phone
 drawable sceneform_plane
+drawable starbuzz_logo
 drawable sushi_set_filava
 drawable test_custom_background
 drawable tom_yam
