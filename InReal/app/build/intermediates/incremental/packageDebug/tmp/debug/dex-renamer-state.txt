@@ -1,7 +1,4 @@
-#Sun Feb 28 21:16:26 MSK 2021
-base.0=D\:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
+#Wed Mar 03 23:37:15 MSK 2021
+base.0=D\:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\HeadFirst\\testAndroidApp\\InReal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
